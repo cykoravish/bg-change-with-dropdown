@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 1.5s ease;
+}
+
+select{
+    background-color: rgb(6, 10, 0);
+    color: white;
+    width: 150px;
+    height: 55px;
+    text-align: center;
+    border: 2px solid white;
+}
